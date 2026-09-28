@@ -48,6 +48,11 @@ Escrow on testnet: [`CCQCVQTYB45FXJG6BPLR4RPBMBOE4VD73MUMTDWT6Q55TXINSEBV3IOQ`](
 
 Found a vulnerability? Please report it privately through the repo's **Security** tab. Never open a public issue for it.
 
+## Maintainers
+
+- [@N-thnI](https://github.com/N-thnI)
+- [@N-i-xx](https://github.com/N-i-xx) (nixx)
+
 ## Contact
 
-Security and code-of-conduct reports: *maintainers, add a contact email here.*
+Security and code-of-conduct reports: [niheanyi404@gmail.com](mailto:niheanyi404@gmail.com) (or a private advisory in the repo's Security tab).
